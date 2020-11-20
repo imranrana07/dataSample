@@ -3,31 +3,31 @@
   {
       "category_name": "Programming Language",
       "skills": [
-        "1":"C",
-        "2":"C++",
-        "3":"Java",
-        "4":"Kotlin",
-        "5":"PHP"
+        "s1":"C",
+        "s2":"C++",
+        "s3":"Java",
+        "s4":"Kotlin",
+        "s5":"PHP"
       ]
     },
     {
       "category_name": "Data Structure",
       "skills": [
-        "1":"Array",
-        "2":"Linked List",
-        "3":"Stack",
-        "4":"Queue",
-        "5":""
+        "s1":"Array",
+        "s2":"Linked List",
+        "s3":"Stack",
+        "s4":"Queue",
+        "s5":""
       ]
     },
     {
       "category_name": "Algorithm",
       "skills": [
-        "1":"Bubble Sort",
-        "2":"Quick Sort",
-        "3":"Floodfill",
-        "4":"DFS",
-        "5":"BFS"
+        "s1":"Bubble Sort",
+        "s2":"Quick Sort",
+        "s3":"Floodfill",
+        "s4":"DFS",
+        "s5":"BFS"
       ]
     }
   ]
