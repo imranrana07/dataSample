@@ -1,1 +1,68 @@
 
+{
+  "name": "S M Imran Ahmed",
+  "imgUrl": "https://ibb.co/cbdnmnh",
+  "profession": "Android apps developer",
+  "favQuote": "better late than never",
+  "skill": [
+  {
+    "category_name": "Programming Language",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Kotlin",
+      "PHP"
+    ]
+  },
+  {
+    "category_name": "Data Structure",
+    "skills": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Queue"
+    ]
+  },
+  {
+    "category_name": "Algorithm",
+    "skills": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Floodfill",
+      "DFS",
+      "BFS"
+    ]
+  }
+],
+"academicDetails": [
+  {
+  "ssc":{
+  "schoolName":"Platinum Secondary School",
+  "dept":"Science"
+  },
+  "hsc":{
+  "collegeName":"Khulna Public college",
+  "dept":"Science"
+  },
+  "hons":{
+  "uniName":"Stamford University",
+  "dept":"Computer Science and Engineering"
+  },
+  }
+],
+"contact":{
+  "mobile":"01671152472",
+  "email":"imranrana07@gmail.com",
+  "add":"khilkhet,Dhaka,Bangladesh"
+}
+}
+
+
+
+
+
+
+
+
+
