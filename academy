@@ -1,0 +1,15 @@
+[
+  {
+  "ssc":{
+  "schoolName":"Platinum Secondary School",
+  "dept":"Science"
+  },
+  "hsc":{
+  "collegeName":"Khulna Public college",
+  "dept":"Science"
+  },
+  "hons":{
+  "uniName":"Stamford University",
+  "dept":"Computer Science and Engineering"
+  }
+]
