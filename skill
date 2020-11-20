@@ -1,0 +1,33 @@
+{
+[
+  {
+      "category_name": "Programming Language",
+      "skills": [
+        "C",
+        "C++",
+        "Java",
+        "Kotlin",
+        "PHP"
+      ]
+    },
+    {
+      "category_name": "Data Structure",
+      "skills": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Queue"
+      ]
+    },
+    {
+      "category_name": "Algorithm",
+      "skills": [
+        "Bubble Sort",
+        "Quick Sort",
+        "Floodfill",
+        "DFS",
+        "BFS"
+      ]
+    }
+  ]
+}
