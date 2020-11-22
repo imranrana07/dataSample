@@ -1,11 +1,14 @@
 
 [
   {
+  "category_name": "Language"
+      "skills":  [
         {"s":"C"},
         {"s":"C++"},
         {"s":"Java"},
         {"s":"Kotlin"},
         {"s":"PHP"}
+        ]
   },
   {
       "category_name": "Data Structure",
