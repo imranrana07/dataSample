@@ -1,7 +1,7 @@
 
 [
   {
-  "category_name": "Language"
+  "category_name": "Language",
       "skills":  [
         {"s":"C"},
         {"s":"C++"},
