@@ -1,14 +1,30 @@
 
 [
   {
-      "category_name": "Programming Language",
+        {"s":"C"},
+        {"s":"C++"},
+        {"s":"Java"},
+        {"s":"Kotlin"},
+        {"s":"PHP"}
+  },
+  {
+      "category_name": "Data Structure",
       "skills": [
-        "C",
-        "C++",
-        "Java",
-        "Kotlin",
-        "PHP"
+        {"s":"Array"},
+        {"s":"Linked List"},
+        {"s":"Stack"},
+        {"s":"Queue"},
+        {"s":""}
       ]
-    }
-    
-  ]
+   },
+   {
+      "category_name": "Algorithm",
+      "skills": [
+        {"s":"Bubble Sort"},
+        {"s":"Quick Sort"},
+        {"s":"Floodfill"},
+        {"s":"DFS"},
+        {"s":"BFS"}
+      ]
+   }
+]
