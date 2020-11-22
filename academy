@@ -1,15 +1,14 @@
 [
-  {
-  "ssc":{
-  "schoolName":"Platinum Secondary School",
+  "ssc":[
+  "institutionName":"Platinum Secondary School",
   "dept":"Science"
-  },
-  "hsc":{
-  "collegeName":"Khulna Public college",
+  ],
+  "hsc":[
+  "institutionName":"Khulna Public college",
   "dept":"Science"
-  },
-  "hons":{
-  "uniName":"Stamford University",
+  ],
+  "hons":[
+  "institutionName":"Stamford University",
   "dept":"Computer Science and Engineering"
-  }
+  ]
 ]
